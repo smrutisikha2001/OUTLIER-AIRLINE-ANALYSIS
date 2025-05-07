@@ -1,4 +1,4 @@
-# OUTLIER-AIRLINE-ANALYSIS
+# Occupancy Rate Optimization for Outlier Airlines
 
 OUTLIER AIRLINES has been providing high-quality air transportation services to the clients for several years, and their primary focus is to ensure a safe, comfortable, and a convenient journey for our passengers. 
 However, the winds of change are upon them. The aviation industry, as many of us are aware, is currently navigating a complex landscape. They are facing increasing pressures from stricter environmental regulations, higher operational costs due to rising taxes and fuel prices, and a competitive labor market. These factors are undeniably impacting their profitability.
